@@ -21,7 +21,7 @@
     ],
     "require": {
         "php": "^7.4",
-        "illuminate/support": "^7.0",
+        "illuminate/support": "^7.0 | ^8.0",
         "php-http/guzzle6-adapter": "^2.0",
         "mailersend/mailersend": "^0.1",
         "nyholm/psr7": "^1.3"
